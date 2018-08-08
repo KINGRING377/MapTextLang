@@ -567,7 +567,7 @@
 	}
 	"***The portal will activate in 70***"
 	{
-		"chi"		"** **"
+		"chi"		"**70秒后开门 **"
 	}
 	"***Special thanks to: Jllaneras***"
 	{
